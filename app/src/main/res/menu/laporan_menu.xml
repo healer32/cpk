@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_hari"
+        android:title="Sort Hari Ini"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort_bulan"
+        android:title="Sort Bulan Ini"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort_tahun"
+        android:title="Sort Tahun Ini"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/print_pdf"
+        android:title="Print to PDF"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/print_excel"
+        android:title="Print to Excel"
+        app:showAsAction="never" />
+</menu>
