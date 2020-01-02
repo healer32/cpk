@@ -1,0 +1,529 @@
+[17-Sep-2018 11:58:39 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:39 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:39 UTC] PHP Fatal error:  require(): Failed opening required 'tes/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:41 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:41 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:41 UTC] PHP Fatal error:  require(): Failed opening required 'tes/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:42 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:42 UTC] PHP Warning:  require(tes/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 11:58:42 UTC] PHP Fatal error:  require(): Failed opening required 'tes/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/slbnurul/public_html/kasir/api/register.php on line 5
+[17-Sep-2018 12:18:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/slbnurul/public_html/kasir/api/login.php on line 21
+[17-Sep-2018 12:18:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/slbnurul/public_html/kasir/api/login.php on line 21
+[17-Sep-2018 12:18:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/slbnurul/public_html/kasir/api/login.php on line 21
+[17-Sep-2018 15:28:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showBarang.php on line 22
+[20-Sep-2018 17:14:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:14:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:15:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:15:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:15:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:15:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:15:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 24
+[20-Sep-2018 17:17:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[20-Sep-2018 17:17:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/slbnurul/public_html/kasir/api/showListPelSup.php on line 22
+[26-Sep-2018 06:12:23 UTC] PHP Parse error:  syntax error, unexpected 'mysqli_close' (T_STRING), expecting ',' or ';' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 61
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 06:49:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:36 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:36:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:37:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:38:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:00 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:00 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:00 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:39:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:41:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:45:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:46 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:47 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:47 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:46:47 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:58 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'stok' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'harga' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[26-Sep-2018 08:49:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/slbnurul/public_html/kasir/api/addTransaksi.php on line 40
+[28-Sep-2018 21:18:12 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:19:16 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:21:26 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:21:27 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:21:28 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:21:44 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:21:45 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:24:05 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kasw9337_admin'@'localhost' (using password: YES) in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[28-Sep-2018 21:59:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/getToko.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/getToko.php on line 22
+[28-Sep-2018 21:59:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/getToko.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/getToko.php on line 22
+[04-Oct-2018 20:29:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showPembelian.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showPembelian.php on line 22
+[04-Oct-2018 20:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showPembelian.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showPembelian.php on line 22
+[04-Oct-2018 20:32:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showPembelian.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showPembelian.php on line 22
+[17-Oct-2018 16:54:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListHutPit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListHutPit.php on line 39
+[17-Oct-2018 16:54:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListHutPit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListHutPit.php on line 39
+[17-Oct-2018 16:55:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListHutPit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListHutPit.php on line 39
+[17-Oct-2018 16:55:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListHutPit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListHutPit.php on line 39
+[17-Oct-2018 16:56:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListHutPit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListHutPit.php on line 39
+[18-Oct-2018 14:52:27 Asia/Jakarta] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/kasw9337/public_html/kasir/api/bayarPiutang.php on line 27
+[08-Dec-2018 19:06:42 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:08:05 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:08:20 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:09:15 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:09:17 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:10:07 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 19:10:11 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[08-Dec-2018 20:04:04 Asia/Jakarta] PHP Warning:  move_uploaded_file(): open_basedir restriction in effect. File() is not within the allowed path(s): (/home/kasw9337/:/usr/lib/php:/usr/local/lib/php:/var/cpanel/php/sessions:/tmp) in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 32
+[08-Dec-2018 20:04:36 Asia/Jakarta] PHP Warning:  move_uploaded_file(): open_basedir restriction in effect. File() is not within the allowed path(s): (/home/kasw9337/:/usr/lib/php:/usr/local/lib/php:/var/cpanel/php/sessions:/tmp) in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 32
+[09-Dec-2018 15:18:34 Asia/Jakarta] PHP Warning:  preg_split(): Delimiter must not be alphanumeric or backslash in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 37
+[10-Dec-2018 08:28:32 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 08:30:51 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 08:32:08 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 08:35:26 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 08:36:49 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 08:42:13 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Dec-2018 22:48:54 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[16-Dec-2018 10:05:03 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:42:48 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:48:33 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:48:42 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:48:52 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:49:02 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[21-Dec-2018 19:49:13 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[22-Dec-2018 22:32:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:32:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:08 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:08 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[22-Dec-2018 22:33:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[23-Dec-2018 22:22:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKas.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKas.php on line 22
+[23-Dec-2018 22:25:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKas.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKas.php on line 22
+[06-Jan-2019 20:07:05 Asia/Jakarta] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/kasw9337/public_html/kasir/api/mutasiKas.php on line 28
+[06-Jan-2019 20:09:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/kasw9337/public_html/kasir/api/mutasiKas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/mutasiKas.php on line 27
+[06-Jan-2019 20:11:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kasw9337/public_html/kasir/api/mutasiKas.php on line 27
+[09-Jan-2019 05:45:29 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[09-Jan-2019 11:48:55 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 40
+[10-Jan-2019 23:07:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListPelSup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListPelSup.php on line 23
+[10-Jan-2019 23:07:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListPelSup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListPelSup.php on line 23
+[10-Jan-2019 23:07:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListPelSup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListPelSup.php on line 23
+[10-Jan-2019 23:07:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showListPelSup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showListPelSup.php on line 23
+[15-Jan-2019 20:13:03 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[15-Jan-2019 20:13:22 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[15-Jan-2019 20:13:32 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[30-Jan-2019 04:36:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/showPenjualan.php on line 8
+[30-Jan-2019 04:36:39 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/showAkunKas.php on line 8
+[30-Jan-2019 04:36:44 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/getUser.php on line 8
+[30-Jan-2019 04:36:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/getToko.php on line 8
+[30-Jan-2019 04:37:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:37:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:25 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:32 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:32 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:38:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:40:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 04:40:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[30-Jan-2019 10:58:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showPesanan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showPesanan.php on line 24
+[30-Jan-2019 10:58:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showPesanan.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showPesanan.php on line 24
+[02-Feb-2019 12:57:59 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[04-Feb-2019 13:09:49 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[04-Feb-2019 13:11:38 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[04-Feb-2019 20:52:45 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:52:45 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:53:27 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:53:27 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:53:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:53:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:34 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:34 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:54:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:33 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:33 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:47 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:55:47 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:56:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 20:56:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:03:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:03:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:04:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[04-Feb-2019 21:04:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Feb-2019 16:58:13 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-Feb-2019 12:22:38 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[20-Feb-2019 06:37:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:37:03 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:37:58 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:37:58 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:30 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:30 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:38:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:40:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[20-Feb-2019 06:40:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[07-Mar-2019 02:26:42 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 08:05:22 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:42:42 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:43:05 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:43:57 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:44:18 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:44:58 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[09-Mar-2019 16:45:09 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[29-Mar-2019 20:08:04 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[23-Apr-2019 08:21:29 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[23-Apr-2019 08:21:29 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[23-Apr-2019 08:21:29 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/kasw9337/public_html/kasir/api/showBarang.php on line 8
+[02-May-2019 18:16:51 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 11:54:52 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 12:06:31 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 18:51:03 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 19:58:04 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 19:58:16 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[18-May-2019 19:58:29 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[13-Jun-2019 22:45:19 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:19 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:28 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:28 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:47 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:45:47 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:46:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:46:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:46:13 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[13-Jun-2019 22:46:13 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:34:30 Asia/Jakarta] PHP Warning:  unlink(/home/kasw9337/public_html/kasir/): Is a directory in /home/kasw9337/public_html/kasir/api/updateBarang.php on line 41
+[29-Jun-2019 12:38:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:38:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:39:12 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:39:12 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:40:40 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:40:40 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:43:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:43:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:43:59 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:43:59 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:45:51 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:45:51 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:47:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[29-Jun-2019 12:47:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:37:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:37:53 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:23 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:23 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:33 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:33 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:44 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:38:44 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:39:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:39:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:41:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:41:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:41:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 11:41:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:18:07 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:18:07 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:18:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:18:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:26:48 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 13:26:48 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 18:06:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 18:06:14 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 18:06:23 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[01-Jul-2019 18:06:23 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Jul-2019 16:48:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kasw9337/public_html/kasir/api/deleteKategori.php on line 19
+[08-Jul-2019 16:48:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKas.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKas.php on line 22
+[08-Jul-2019 16:48:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKas.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKas.php on line 22
+[08-Jul-2019 16:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKas.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKas.php on line 22
+[08-Jul-2019 16:48:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showKategori.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showKategori.php on line 22
+[08-Jul-2019 16:48:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showTransaksi.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showTransaksi.php on line 23
+[08-Jul-2019 18:11:06 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[03-Aug-2019 00:06:21 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/kasw9337/public_html/kasir/api/uploadImage.php on line 9
+[03-Aug-2019 00:06:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/getUser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/getUser.php on line 22
+[03-Aug-2019 09:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/kasw9337/public_html/kasir/api/showBarang.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kasw9337/public_html/kasir/api/showBarang.php on line 22
+[08-Aug-2019 08:12:44 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:12:44 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:12:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:12:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:12:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:12:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:17 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
+[08-Aug-2019 08:13:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/kasw9337/public_html/kasir/api/showBarang.php on line 24
